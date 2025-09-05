@@ -1,0 +1,10 @@
+{
+  "name": "leonlogo7777",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step'"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.6.0"
+  }
+}
